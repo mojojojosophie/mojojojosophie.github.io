@@ -6,7 +6,14 @@ section.figure {
     }
 section.body {
       text-align: center;
+      background-color: rgb(235, 235, 235);
+      width: 300px;
+      margin-left: auto;
+      margin-right: auto;
     }
 section.form {
       text-align: left;
+}
+body {
+  background-image: URL(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/p-448-pai-560.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=bfc947a48e6d40dd7e6153f0e180d3e4);
 }
