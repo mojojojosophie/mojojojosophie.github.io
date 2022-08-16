@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
       text-align: center;
     }
@@ -9,4 +10,17 @@ header {
     }
     section.form {
       text-align: left;
+=======
+header {
+      text-align: center;
+    }
+    section.figure {
+      text-align: center;
+    }
+    section.body {
+      text-align: center;
+    }
+    section.form {
+      text-align: left;
+>>>>>>> 9de6f3b09bf34b29667fc59961b42c66b21b3b0d
     }
